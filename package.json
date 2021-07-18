@@ -1,0 +1,23 @@
+{
+  "name": "friendmanagerfrontend",
+  "version": "1.0.0",
+  "description": "Frontend application for the fried friends app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunil-kumarr/Fried-Friends-Frontend.git"
+  },
+  "keywords": [
+    "VueJS",
+    "Javascript"
+  ],
+  "author": "sunil kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunil-kumarr/Fried-Friends-Frontend/issues"
+  },
+  "homepage": "https://github.com/sunil-kumarr/Fried-Friends-Frontend#readme"
+}
